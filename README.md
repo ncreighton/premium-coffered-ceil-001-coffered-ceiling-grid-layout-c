@@ -1,0 +1,2 @@
+# premium-coffered-ceil-001-coffered-ceiling-grid-layout-c
+Spending hours manually sketching coffered ceiling grids, recalculating measurements, and second-guessing your layout proportions? The Coffered Ceiling Grid Layout Calculator eliminates the guesswork and gets your ceiling dimensions perfectly balanced in minutes.  This Notion template automates the entire grid planning process, handling complex spa
